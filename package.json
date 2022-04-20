@@ -1,0 +1,17 @@
+{
+  "name": "zopfli.js",
+  "description": "Porting Zopfli to JavaScript with Emscripten",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imaya/zopfli.js"
+  },
+  "main": "bin/zopfli.min.js",
+  "files": [
+      "bin/*.js"
+  ],
+  "keywords": ["Zopfli", "deflate", "zip", "gzip"],
+  "author": "https://github.com/imaya/zopfli.js",
+  "license": "Apache License 2.0",
+  "homepage": "https://github.com/imaya/zopfli.js"
+}
